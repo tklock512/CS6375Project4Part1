@@ -2,6 +2,8 @@ The project needs to be compiled using a java compiler
 
 After compiling run 'java Kmeans'
 
+This class compresses an image into K different color values taken from the image.
+
 The Kmeans class takes in 3 inputs:
 1. The image to be used as input
 2. The K value
