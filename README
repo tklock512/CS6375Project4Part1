@@ -1,0 +1,10 @@
+The project needs to be compiled using a java compiler
+
+After compiling run 'java Kmeans'
+
+The Kmeans class takes in 3 inputs:
+1. The image to be used as input
+2. The K value
+3. The file name to be used for the resulting image
+
+Ex: java Kmeans ./Koala.jpg 5 KoalaComp.jpg
